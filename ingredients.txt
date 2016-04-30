@@ -2,5 +2,5 @@ avocados
 salt
 lime
 cilantro
-onion
+green onion
 lots of love
